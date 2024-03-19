@@ -32,3 +32,9 @@ byte = 8자리 bit
 
         max_value = (x if x>y else y)
 
+반복문 
+
+    range() 함수
+
+        range(start=0,stop,step=1)
+
