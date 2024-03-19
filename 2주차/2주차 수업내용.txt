@@ -27,5 +27,8 @@ byte = 8자리 bit
         "hello "+"world"
         >>>"hello world"
 
-    
+조건
+    조건연산자
+
+        max_value = (x if x>y else y)
 
