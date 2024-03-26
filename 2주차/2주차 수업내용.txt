@@ -38,3 +38,7 @@ byte = 8자리 bit
 
         range(start=0,stop,step=1)
 
+    while 반복문
+
+        break 반복을 중단함 
+
