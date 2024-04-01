@@ -12,5 +12,9 @@ def factorial():
         fact *=i
     return fact
 
-print(factorial(10))
+def decimal(x):
+    return bin(x)
+
+print(decimal(40))
+
 
