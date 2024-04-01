@@ -1,1 +1,13 @@
-print ("hello world")
+L = int(input())
+A = int(input())
+B = int(input())
+C = int(input())
+D = int(input())
+
+dayKorean = (A/C)
+dayMath = (B/C)
+
+if dayKorean >= dayMath :
+    print(int(L-dayKorean))
+else :
+    print(int(L-dayMath))
