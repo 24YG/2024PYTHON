@@ -5,7 +5,7 @@ C = int(input())
 D = int(input())
 
 dayKorean = (A/C)
-dayMath = (B/C)
+dayMath = (B/D)
 
 if dayKorean >= dayMath :
     print(int(L-dayKorean))
