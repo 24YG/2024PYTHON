@@ -26,7 +26,7 @@ def printContact() :
     else :
         print("%s의 전화번호가 존재하지 않습니다.")
 def menu() :
-    print(" 1. 연락처 추가 \n",
+    print(" 1. 연락처 추가 \n"
           "2. 연락처 삭제 \n",
           "3. 연락처 찾기 \n",
           "4. 연락처 출력 \n",
